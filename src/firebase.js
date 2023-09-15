@@ -5,7 +5,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getFirestore,collection } from "firebase/firestore"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAhykMjEvjKsPgFYGMNZHSvfyTtHi-J0Q8",
+  apiKey: "none",
   authDomain: "react-notes-714a8.firebaseapp.com",
   projectId: "react-notes-714a8",
   storageBucket: "react-notes-714a8.appspot.com",
